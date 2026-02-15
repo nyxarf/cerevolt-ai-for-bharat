@@ -2,7 +2,7 @@
 
 ---
 
-## 🏗 System Architecture Overview
+##  System Architecture Overview
 
 Cerevolt follows a secure, scalable microservices architecture.
 
@@ -25,7 +25,7 @@ Model Server (Optional GPU Support)
 
 ---
 
-## 🧩 Core Components
+##  Core Components
 
 ### 1. Client Layer
 - Child App (Home Mode)
@@ -103,7 +103,7 @@ Encryption:
 
 ---
 
-## 🔄 Process Flow
+##  Process Flow
 
 Login
 ↓
@@ -131,7 +131,7 @@ Continuous Learning Loop
 
 ---
 
-## 🖥 Admin Panel Design
+##  Admin Panel Design
 
 Modules:
 - User Management
@@ -144,7 +144,7 @@ Modules:
 
 ---
 
-## 📊 Data Flow Design
+##  Data Flow Design
 
 Data Flow:
 User → API Gateway → Services → Database → Analytics → Dashboard
@@ -154,7 +154,7 @@ Admin/Teacher/Parent → Session Config → Recommendation Engine → Content De
 
 ---
 
-## ☁ Deployment Design
+##  Deployment Design
 
 - Docker Containerized Services
 - Kubernetes Orchestration
@@ -165,7 +165,7 @@ Admin/Teacher/Parent → Session Config → Recommendation Engine → Content De
 
 ---
 
-## 🧠 Design Principles
+##  Design Principles
 
 - Child-first design philosophy
 - Autism-inclusive UX
@@ -176,7 +176,7 @@ Admin/Teacher/Parent → Session Config → Recommendation Engine → Content De
 
 ---
 
-## 📈 Future Design Expansion
+##  Future Design Expansion
 
 - Wearable sensor API integration
 - Advanced AI conversational model
@@ -186,7 +186,7 @@ Admin/Teacher/Parent → Session Config → Recommendation Engine → Content De
 
 ---
 
-## 👥 Authors
+##  Authors
 
 - Arfa Ahmed Ansari  
 - Abhiroop Mukherjee  
