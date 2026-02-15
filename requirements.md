@@ -3,7 +3,7 @@ AI-Powered Cognitive & Emotional Support Platform for Children (5–12 Years)
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Cerevolt is an AI-driven emotional and cognitive support platform designed to assist children aged 5–12 facing attention deficits, overstimulation, emotional dysregulation, and autism spectrum challenges.
 
@@ -11,7 +11,7 @@ The system integrates therapeutic media, gamified neurocognitive training, adapt
 
 ---
 
-## 🎯 Functional Requirements
+##  Functional Requirements
 
 ### 1. User Management
 - Role-based login (Admin, Parent, Teacher, Clinician, Student)
@@ -75,7 +75,7 @@ The system integrates therapeutic media, gamified neurocognitive training, adapt
 
 ---
 
-## 🤖 AI & Machine Learning Requirements
+##  AI & Machine Learning Requirements
 
 - Personalized Recommendation Engine
 - Emotional State Classification Model
@@ -87,7 +87,7 @@ The system integrates therapeutic media, gamified neurocognitive training, adapt
 
 ---
 
-## 🔐 Security Requirements
+##  Security Requirements
 
 - TLS 1.3 secure communication
 - AES-256 encrypted database storage
@@ -100,7 +100,7 @@ The system integrates therapeutic media, gamified neurocognitive training, adapt
 
 ---
 
-## ⚙ Non-Functional Requirements
+##  Non-Functional Requirements
 
 ### Performance
 - Real-time recommendation response < 2 seconds
@@ -126,7 +126,7 @@ The system integrates therapeutic media, gamified neurocognitive training, adapt
 
 ---
 
-## 📊 Analytics & Reporting Requirements
+##  Analytics & Reporting Requirements
 
 - Session history tracking
 - Emotional engagement trends
@@ -136,7 +136,7 @@ The system integrates therapeutic media, gamified neurocognitive training, adapt
 
 ---
 
-## 🚀 Future Requirements
+##  Future Requirements
 
 - Wearable sensor integration
 - Expansion to adult cognitive health
@@ -146,7 +146,7 @@ The system integrates therapeutic media, gamified neurocognitive training, adapt
 
 ---
 
-## 👥 Authors
+##  Authors
 
 - Arfa Ahmed Ansari – arfaahmedansari@gmail.com  
 - Abhiroop Mukherjee – abhiroopmukh001@gmail.com  
